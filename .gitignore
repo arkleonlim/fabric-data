@@ -1,0 +1,104 @@
+# ----------------------------
+# Python / PySpark
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.pickle
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+.conda/
+*.ipynb_checkpoints
+
+# ----------------------------
+# Jupyter / Notebooks
+# ----------------------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ----------------------------
+# Spark / PySpark
+# ----------------------------
+derby.log
+metastore_db/
+spark-warehouse/
+*.crc
+*.eventlog
+
+# ----------------------------
+# Microsoft Fabric / OneLake
+# ----------------------------
+# Local copies of OneLake or Lakehouse exports
+OneLake/
+Lakehouse/
+Warehouse/
+*.parquet
+*.delta
+*.orc
+*.avro
+
+# If you want to version sample datasets, move them to a dedicated "data-samples" folder
+/data/
+/datasets/
+/raw_data/
+/staging_data/
+/processed_data/
+
+# ----------------------------
+# Build / Packaging
+# ----------------------------
+build/
+dist/
+*.manifest
+*.spec
+
+# ----------------------------
+# IDE / Editors
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Secrets / Configs
+# ----------------------------
+*.key
+*.pem
+*.pfx
+*.cer
+*.crt
+*.json
+*.yaml
+*.yml
+secrets/
+config/
+.env.local
+.env.development
+.env.production
+
+# ----------------------------
+# Logs / Temp
+# ----------------------------
+*.log
+logs/
+tmp/
+temp/
