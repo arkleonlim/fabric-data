@@ -47,6 +47,10 @@ Warehouse/
 *.delta
 *.orc
 *.avro
+.work-folder-info
+.workspace-info
+.artifact-info
+.resource-info
 
 # If you want to version sample datasets, move them to a dedicated "data-samples" folder
 /data/
