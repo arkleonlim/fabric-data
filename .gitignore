@@ -90,7 +90,6 @@ Thumbs.db
 *.pfx
 *.cer
 *.crt
-*.json
 *.yaml
 *.yml
 secrets/
