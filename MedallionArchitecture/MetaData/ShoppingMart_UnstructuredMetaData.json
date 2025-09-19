@@ -1,17 +1,17 @@
 [
   {
     "source_url": "refs/heads/main/MedallionArchitecture/ShoppingMart_UnstructuredData/reviews.json",
-    "sink_folder": "ShoppingMart_Raw_Reviews",
-    "sink_file": "ShoppingMart_review.json"
+    "sink_folder": "ShoppingMart_UnstructuredData",
+    "sink_file": "reviews.json"
   },
   {
     "source_url": "refs/heads/main/MedallionArchitecture/ShoppingMart_UnstructuredData/social_media.json",
-    "sink_folder": "ShoppingMart_Raw_Social_Media",
-    "sink_file": "ShoppingMart_social_media.json"
+    "sink_folder": "ShoppingMart_UnstructuredData",
+    "sink_file": "social_media.json"
   },
   {
     "source_url": "refs/heads/main/MedallionArchitecture/ShoppingMart_UnstructuredData/web_logs.json",
-    "sink_folder": "ShoppingMart_Raw_Web_Logs",
-    "sink_file": "ShoppingMart_web_logs.json"
+    "sink_folder": "ShoppingMart_UnstructuredData",
+    "sink_file": "web_logs.json"
   }
 ]

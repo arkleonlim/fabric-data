@@ -1,17 +1,17 @@
 [
   {
     "source_url": "refs/heads/main/MedallionArchitecture/ShoppingMart_StructuredData/Orders_Data.csv",
-    "sink_folder": "ShoppingMart_Raw_Orders",
-    "sink_file": "ShoppingMart_orders.csv"
+    "sink_folder": "ShoppingMart_StructuredData",
+    "sink_file": "Orders_Data.csv"
   },
   {
     "source_url": "refs/heads/main/MedallionArchitecture/ShoppingMart_StructuredData/customers.csv",
-    "sink_folder": "ShoppingMart_Raw_Customers",
-    "sink_file": "ShoppingMart_customers.csv"
+    "sink_folder": "ShoppingMart_StructuredData",
+    "sink_file": "customers.csv"
   },
   {
     "source_url": "refs/heads/main/MedallionArchitecture/ShoppingMart_StructuredData/products.csv",
-    "sink_folder": "ShoppingMart_Raw_Products",
-    "sink_file": "ShoppingMart_products.csv"
+    "sink_folder": "ShoppingMart_StructuredData",
+    "sink_file": "products.csv"
   }
 ]
